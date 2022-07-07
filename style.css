@@ -20,7 +20,9 @@ body {
   height: 100vh;
   background-color: var(--Light-Gray);
 }
-
+.d-none {
+  display: none;
+}
 .counter {
   margin-bottom: 40px;
   text-align: center;
